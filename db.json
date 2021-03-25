@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "name": "iPhone 12 Pro Max",
+      "price": "999",
+      "status": true,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Laptop",
+      "price": "26000000",
+      "status": true
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "title": "Bí kíp cho buổi phỏng vấn ReactJS thành công",
+      "subHeading": "Bí kíp cho buổi phỏng vấn ReactJS thành công Agenda: Một vài lưu ý chung Ôn tập kiến thức JS/ReactJS Cày thuật toán, giải thuật Tìm hiểu về công ty mà mình xin ứng tuyển Lưu ý: Tuỳ mỗi công ty có một style phỏng vấn khác nhau, nên các bạn chỉ tham khảo,...",
+      "imgURL": "https://nordiccoder.com/app/uploads/2020/07/Screenshot-at-Jul-06-14-01-11-375x234-c-default.png",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut adipisci deserunt animi ab doloribus ratione nobis, aspernatur voluptates? Soluta dolorem ratione ducimus dolorum impedit voluptas expedita unde iure dolore nulla! Reprehenderit, nobis sit. Exercitationem repellendus reprehenderit assumenda atque neque a quae porro hic qui, perferendis laborum distinctio animi alias molestias libero omnis repudiandae sequi nesciunt nemo vitae facilis provident sed. Expedita omnis fugiat, natus, voluptas accusamus architecto cumque eum voluptatum facere maiores molestias itaque. Voluptatum consequatur quisquam officiis facere autem debitis molestiae, quidem, qui, impedit neque tempore? Facere, officiis iusto!",
+      "author": "Michale Kors",
+      "createAt": "2021-03-24T07:39:48+0000"
+    },
+    {
+      "id": 2,
+      "title": "Tất cả những gì bạn cần biết về chatbot",
+      "subHeading": "Chatbot là gì? Khái niệm Định nghĩa một cách đơn giản nhất, chatbot là một chương trình máy tính tương tác với người dùng bằng ngôn ngữ tự nhiên dưới một giao diện đơn giản, âm thanh hoặc dưới dạng tin nhắn. Phân loại Theo đúng cách mà chúng tương tác với người dùng....",
+      "imgURL": "https://nordiccoder.com/app/uploads/2020/06/photo-1-15490099233801866856069-crop-15490100125262132003451-375x234-c-default.jpg",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut adipisci deserunt animi ab doloribus ratione nobis, aspernatur voluptates? Soluta dolorem ratione ducimus dolorum impedit voluptas expedita unde iure dolore nulla! Reprehenderit, nobis sit. Exercitationem repellendus reprehenderit assumenda atque neque a quae porro hic qui, perferendis laborum distinctio animi alias molestias libero omnis repudiandae sequi nesciunt nemo vitae facilis provident sed. Expedita omnis fugiat, natus, voluptas accusamus architecto cumque eum voluptatum facere maiores molestias itaque. Voluptatum consequatur quisquam officiis facere autem debitis molestiae, quidem, qui, impedit neque tempore? Facere, officiis iusto!",
+      "author": "John Anath",
+      "createAt": "2021-03-24T07:39:48+0000"
+    },
+    {
+      "id": 3,
+      "title": "Top những trang web học lập trình miễn phí 2020",
+      "subHeading": "Trong bài viết này, Nordic Coder sẽ giúp bạn tìm kiếm những trang tuyệt vời để học lập trình miễn phí, tất cả những gì bạn cần là truy cập vào kết nối internet và máy tính xách tay tốt.  Lý do quan trọng nhất để học cách viết code là nó sẽ cho phép […]",
+      "imgURL": "https://nordiccoder.com/app/uploads/2020/06/Screenshot-at-Jun-05-16-56-23-375x234-c-default.png",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut adipisci deserunt animi ab doloribus ratione nobis, aspernatur voluptates? Soluta dolorem ratione ducimus dolorum impedit voluptas expedita unde iure dolore nulla! Reprehenderit, nobis sit. Exercitationem repellendus reprehenderit assumenda atque neque a quae porro hic qui, perferendis laborum distinctio animi alias molestias libero omnis repudiandae sequi nesciunt nemo vitae facilis provident sed. Expedita omnis fugiat, natus, voluptas accusamus architecto cumque eum voluptatum facere maiores molestias itaque. Voluptatum consequatur quisquam officiis facere autem debitis molestiae, quidem, qui, impedit neque tempore? Facere, officiis iusto!",
+      "author": "Alex Jump",
+      "createAt": "2021-03-24T07:39:48+0000"
+    },
+    {
+      "id": 4,
+      "title": "Career: Trở thành software developer mà không cần bằng cấp",
+      "subHeading": "Người viết bài: James Blunt là software developer với 16 năm kinh nghiệm, giữ chức vụ trưởng bộ phần kỹ thuật của công ty phần mềm kế toán Crunch. Trong bài viết dưới đây, ông chia sẻ cho người đọc về cách thâm nhập vào lĩnh vực CNTT ngay cả khi bạn không phải một […]",
+      "imgURL": "https://nordiccoder.com/app/uploads/2020/04/Untitled-1-6-375x234-c-default.jpg",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut adipisci deserunt animi ab doloribus ratione nobis, aspernatur voluptates? Soluta dolorem ratione ducimus dolorum impedit voluptas expedita unde iure dolore nulla! Reprehenderit, nobis sit. Exercitationem repellendus reprehenderit assumenda atque neque a quae porro hic qui, perferendis laborum distinctio animi alias molestias libero omnis repudiandae sequi nesciunt nemo vitae facilis provident sed. Expedita omnis fugiat, natus, voluptas accusamus architecto cumque eum voluptatum facere maiores molestias itaque. Voluptatum consequatur quisquam officiis facere autem debitis molestiae, quidem, qui, impedit neque tempore? Facere, officiis iusto!",
+      "author": "Peter Johnson",
+      "createAt": "2021-03-24T07:39:48+0000"
+    }
+  ]
+}
