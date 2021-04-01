@@ -1,54 +1,75 @@
 {
   "products": [
     {
-      "name": "iPhone 12 Pro Max",
-      "price": "999",
-      "status": true,
-      "id": 3
+      "id": 1,
+      "name": "Gorgeous Steel Car",
+      "price": "725.00",
+      "status": false
+    },
+    {
+      "id": 2,
+      "name": "Licensed Concrete Soap",
+      "price": "813.00",
+      "status": false
+    },
+    {
+      "id": 3,
+      "name": "Practical Fresh Computer",
+      "price": "911.00",
+      "status": false
     },
     {
       "id": 4,
-      "name": "Laptop",
-      "price": "26000000",
+      "name": "Fantastic Soft Gloves",
+      "price": "100",
       "status": true
     }
   ],
   "articles": [
     {
       "id": 1,
-      "title": "Bí kíp cho buổi phỏng vấn ReactJS thành công",
-      "subHeading": "Bí kíp cho buổi phỏng vấn ReactJS thành công Agenda: Một vài lưu ý chung Ôn tập kiến thức JS/ReactJS Cày thuật toán, giải thuật Tìm hiểu về công ty mà mình xin ứng tuyển Lưu ý: Tuỳ mỗi công ty có một style phỏng vấn khác nhau, nên các bạn chỉ tham khảo,...",
-      "imgURL": "https://nordiccoder.com/app/uploads/2020/07/Screenshot-at-Jul-06-14-01-11-375x234-c-default.png",
-      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut adipisci deserunt animi ab doloribus ratione nobis, aspernatur voluptates? Soluta dolorem ratione ducimus dolorum impedit voluptas expedita unde iure dolore nulla! Reprehenderit, nobis sit. Exercitationem repellendus reprehenderit assumenda atque neque a quae porro hic qui, perferendis laborum distinctio animi alias molestias libero omnis repudiandae sequi nesciunt nemo vitae facilis provident sed. Expedita omnis fugiat, natus, voluptas accusamus architecto cumque eum voluptatum facere maiores molestias itaque. Voluptatum consequatur quisquam officiis facere autem debitis molestiae, quidem, qui, impedit neque tempore? Facere, officiis iusto!",
-      "author": "Michale Kors",
-      "createAt": "2021-03-24T07:39:48+0000"
+      "title": "Human Division Manager",
+      "subTitle": "Omnis quod blanditiis id quidem molestiae harum maiores ea.",
+      "content": "Excepturi temporibus qui vitae. Quaerat ut ut. Aliquid quia et enim ad officiis. Facere nulla pariatur inventore eveniet saepe velit similique. Corrupti quos sed nemo rerum iure iusto voluptatem.\n \rSunt quas iure. Accusantium ut quasi dignissimos quia beatae provident culpa aut non. Tenetur rerum ea aut magnam enim. Omnis reiciendis ut neque voluptatum.\n \rConsequuntur nihil blanditiis omnis delectus dolorem autem aut ex quis. Animi ullam aliquam rem dolore recusandae ipsam incidunt porro voluptatem. Et aperiam deleniti quod iure sed minus ut.",
+      "author": "Boyle",
+      "imgURL": "http://placeimg.com/640/480/transport",
+      "createAt": "2021-03-26T11:30:56.120Z"
     },
     {
       "id": 2,
-      "title": "Tất cả những gì bạn cần biết về chatbot",
-      "subHeading": "Chatbot là gì? Khái niệm Định nghĩa một cách đơn giản nhất, chatbot là một chương trình máy tính tương tác với người dùng bằng ngôn ngữ tự nhiên dưới một giao diện đơn giản, âm thanh hoặc dưới dạng tin nhắn. Phân loại Theo đúng cách mà chúng tương tác với người dùng....",
-      "imgURL": "https://nordiccoder.com/app/uploads/2020/06/photo-1-15490099233801866856069-crop-15490100125262132003451-375x234-c-default.jpg",
-      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut adipisci deserunt animi ab doloribus ratione nobis, aspernatur voluptates? Soluta dolorem ratione ducimus dolorum impedit voluptas expedita unde iure dolore nulla! Reprehenderit, nobis sit. Exercitationem repellendus reprehenderit assumenda atque neque a quae porro hic qui, perferendis laborum distinctio animi alias molestias libero omnis repudiandae sequi nesciunt nemo vitae facilis provident sed. Expedita omnis fugiat, natus, voluptas accusamus architecto cumque eum voluptatum facere maiores molestias itaque. Voluptatum consequatur quisquam officiis facere autem debitis molestiae, quidem, qui, impedit neque tempore? Facere, officiis iusto!",
-      "author": "John Anath",
-      "createAt": "2021-03-24T07:39:48+0000"
+      "title": "Senior Markets Designer",
+      "subTitle": "Et et possimus est iure laborum provident quaerat ut.\nAsperiores ut doloribus quia excepturi et soluta ullam.\nUllam facere ea ea.\nRepellat omnis qui.\nVoluptatem iusto neque eius.",
+      "content": "Quia sed reiciendis nesciunt amet est officiis ipsam. Fuga aut neque. Aut deserunt animi veniam praesentium deserunt sed sit dolorem. Quis in laborum qui sunt qui ut sit eius. Et sequi ut eius. Aut nihil nihil est ex maiores aut.\n \rOmnis quia voluptate. Aliquam ipsa eligendi minus perferendis et velit. Dignissimos magnam aut non eligendi at consequatur quas.\n \rOdit repudiandae repudiandae quia accusantium ab et nulla. Ipsa quo fuga voluptatem accusantium magnam error sapiente. Voluptatem laboriosam vel ut iure tenetur. Et molestias vel.",
+      "author": "Kreiger",
+      "imgURL": "http://placeimg.com/640/480/people",
+      "createAt": "2021-03-26T11:30:56.120Z"
     },
     {
       "id": 3,
-      "title": "Top những trang web học lập trình miễn phí 2020",
-      "subHeading": "Trong bài viết này, Nordic Coder sẽ giúp bạn tìm kiếm những trang tuyệt vời để học lập trình miễn phí, tất cả những gì bạn cần là truy cập vào kết nối internet và máy tính xách tay tốt.  Lý do quan trọng nhất để học cách viết code là nó sẽ cho phép […]",
-      "imgURL": "https://nordiccoder.com/app/uploads/2020/06/Screenshot-at-Jun-05-16-56-23-375x234-c-default.png",
-      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut adipisci deserunt animi ab doloribus ratione nobis, aspernatur voluptates? Soluta dolorem ratione ducimus dolorum impedit voluptas expedita unde iure dolore nulla! Reprehenderit, nobis sit. Exercitationem repellendus reprehenderit assumenda atque neque a quae porro hic qui, perferendis laborum distinctio animi alias molestias libero omnis repudiandae sequi nesciunt nemo vitae facilis provident sed. Expedita omnis fugiat, natus, voluptas accusamus architecto cumque eum voluptatum facere maiores molestias itaque. Voluptatum consequatur quisquam officiis facere autem debitis molestiae, quidem, qui, impedit neque tempore? Facere, officiis iusto!",
-      "author": "Alex Jump",
-      "createAt": "2021-03-24T07:39:48+0000"
+      "title": "International Implementation Associate",
+      "subTitle": "Nostrum ratione exercitationem est mollitia.\nLaudantium sit quibusdam esse fugit est enim tenetur nisi et.\nVoluptatem quas dicta enim.\nError et corporis adipisci quae reiciendis consectetur voluptate fugit vel.",
+      "content": "Sit autem enim suscipit facere itaque ut sit veritatis. Nisi dignissimos nisi sit aliquid soluta et. Nisi distinctio labore sapiente. Sed laborum possimus necessitatibus deleniti et itaque facilis enim. Eaque itaque sed dolores ut et reiciendis. Saepe omnis ut incidunt non voluptates.\n \rIn illum qui est mollitia. Vel aut eaque nesciunt illum. Corrupti a perspiciatis. Omnis reprehenderit illo ea sunt necessitatibus alias commodi. Nulla saepe velit modi excepturi.\n \rDeserunt dolore omnis. Consequatur commodi culpa. Esse necessitatibus est quia non eaque ut non qui. Voluptas non minus fuga velit qui. Necessitatibus est eius accusantium est delectus ratione voluptatem eum et.",
+      "author": "Goyette",
+      "imgURL": "http://placeimg.com/640/480/fashion",
+      "createAt": "2021-03-26T11:30:56.121Z"
     },
     {
       "id": 4,
-      "title": "Career: Trở thành software developer mà không cần bằng cấp",
-      "subHeading": "Người viết bài: James Blunt là software developer với 16 năm kinh nghiệm, giữ chức vụ trưởng bộ phần kỹ thuật của công ty phần mềm kế toán Crunch. Trong bài viết dưới đây, ông chia sẻ cho người đọc về cách thâm nhập vào lĩnh vực CNTT ngay cả khi bạn không phải một […]",
-      "imgURL": "https://nordiccoder.com/app/uploads/2020/04/Untitled-1-6-375x234-c-default.jpg",
-      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut adipisci deserunt animi ab doloribus ratione nobis, aspernatur voluptates? Soluta dolorem ratione ducimus dolorum impedit voluptas expedita unde iure dolore nulla! Reprehenderit, nobis sit. Exercitationem repellendus reprehenderit assumenda atque neque a quae porro hic qui, perferendis laborum distinctio animi alias molestias libero omnis repudiandae sequi nesciunt nemo vitae facilis provident sed. Expedita omnis fugiat, natus, voluptas accusamus architecto cumque eum voluptatum facere maiores molestias itaque. Voluptatum consequatur quisquam officiis facere autem debitis molestiae, quidem, qui, impedit neque tempore? Facere, officiis iusto!",
-      "author": "Peter Johnson",
-      "createAt": "2021-03-24T07:39:48+0000"
+      "title": "Product Metrics Engineer",
+      "subTitle": "Praesentium quia nisi in.\nDignissimos voluptatibus est ut eum sed doloremque deserunt et reprehenderit.\nRerum optio ut eum autem sit.",
+      "content": "Molestiae et eligendi et error explicabo. Saepe eos eaque a culpa. Facere vitae quis distinctio. Occaecati ipsum et velit et veniam et.\n \rPerspiciatis fugit omnis cupiditate explicabo aut eligendi voluptatibus doloremque. Optio ab est veniam molestias laudantium temporibus at. Iusto dolores magnam dignissimos. In nulla temporibus esse tempora expedita. Tempora qui qui quaerat enim.\n \rPerspiciatis voluptas maxime accusamus. Recusandae iste rerum eaque ad reiciendis et sit quis. Porro aspernatur rerum autem consectetur consectetur vel eligendi. Perspiciatis est dolorum laborum et enim accusantium. Itaque asperiores sed nam impedit. Soluta qui qui deleniti quisquam nesciunt.",
+      "author": "Weber",
+      "imgURL": "http://placeimg.com/640/480/sports",
+      "createAt": "2021-03-26T11:30:56.121Z"
+    },
+    {
+      "id": 5,
+      "title": "Global Implementation Developer",
+      "subTitle": "Facilis eos aut laborum reprehenderit velit doloremque id rerum.\nMinus minima quia perferendis distinctio non laudantium ducimus odio aut.\nMaxime eum pariatur enim consequatur sed id.\nUt quia nostrum aut repudiandae ipsum quam.\nQuisquam reprehenderit enim rerum cum rerum sit itaque neque sit.",
+      "content": "Molestias quia eius voluptas eaque voluptas. A corrupti dolores id nesciunt dolore eaque et qui qui. Ut ut dolore. Omnis nisi occaecati quia et magnam accusamus.\n \rPerferendis sapiente nostrum eaque quo quo consequatur sapiente ab commodi. Cumque quasi voluptatem. Consequatur cumque sunt quos perferendis quia. Enim et consequatur fuga. Ducimus minus illo vitae consequatur qui et nesciunt earum. Sapiente vitae id dignissimos vel dolor enim omnis deserunt.\n \rTenetur itaque incidunt deleniti at tempora natus deleniti consectetur sunt. Molestiae adipisci exercitationem adipisci cupiditate error illum et. Laboriosam blanditiis et unde molestias.",
+      "author": "Kuphal",
+      "imgURL": "http://placeimg.com/640/480/nightlife",
+      "createAt": "2021-03-26T11:30:56.121Z"
     }
   ]
 }
