@@ -54,8 +54,8 @@ const randomArticleList = (n) => {
 // IFFE
 (() => {
     //random data
-    const productList = randomProductList(5);
-    const articleList = randomArticleList(5);
+    const productList = randomProductList(6);
+    const articleList = randomArticleList(6);
 
     //prepare db object
     const db = {
