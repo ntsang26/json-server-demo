@@ -55,7 +55,7 @@ const randomArticleList = (n) => {
 (() => {
     //random data
     const productList = randomProductList(6);
-    const articleList = randomArticleList(6);
+    const articleList = randomArticleList(50);
 
     //prepare db object
     const db = {
